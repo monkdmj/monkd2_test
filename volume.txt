@@ -1,0 +1,120 @@
+1，通用软件
+阿里旺旺
+百度网盘
+CAJ云阅读/阅读器
+网易云音乐
+potplayer/射手影音
+驱动精灵
+腾讯管家（桌面管理...）/QQ/微信
+搜狗拼音
+有道云笔记/词典
+
+2，小工具
+Clover
+Ditto
+EagleGet
+Everything
+FreeDownloadManager.ORG fdm
+Glary Utilities 5
+Listary
+SumatraPDF
+TeamViewer
+txvpn
+Unlocker
+uTorrent
+winrar
+XX-Net-master
+
+3，学习办公（迫不得已“绿色版”）
+Altium
+Apache Software Foundation tomcat
+CTEX
+eclipse java/jee
+*********************
+不能运行，测试过将.eclipse/.p直接放入C:\Users\monkd无效
+*****
+重装
+*********************
+Foxit Reader
+Git
+*********************
+
+*****
+
+*********************
+JetBrains intellij idea/pycharm
+*********************
+pycharm .PyCharm2016.3直接放入C:\Users\monkd可完美运行
+IntelliJIdea .IntelliJIdea2016.3/.m直接放入C:\Users\monkd可完美运行
+*****
+
+*********************
+Keil
+OpenCv
+Sublime Text 3
+*********************
+Sublime Text 3 文件夹里的内容直接放入F:\Program Files\Sublime Text 3无效，必须放入C:\Users\monkd的AppData\Roaming\Sublime Text 3文件夹
+*****
+查看--隐藏的项目
+*********************
+Vmware虚拟机
+WPS Office
+
+4，C盘安装
+chrome
+firefox
+mingw
+vs
+python 3.6.0/2.7.13
+*********************
+3.6.0 C:\Program Files\Python36（针对all users）
+2.7.13 C:\Program Files (x86)\Python27（针对all users）
+*****
+一般的（需要管理员运行cmd），直接pip install ...，如以下
+django
+requests
+flask(含jinja2)
+bs4
+virtualenv
+*****
+http://blog.csdn.net/five3/article/details/46340401
+virtualenv -p “C:\Program Files (x86)\Python27\python.exe" py27
+Scripts\activate.bat
+deactivate
+*****
+matplotlib(含numpy)
+fabric
+特殊的，在指定网站下载whl后进入cd "C:\Program Files\Python36\Lib\site-packages"(空格，必须引号)文件夹安装（将文件放好），如以下
+lxml-3.8.0-cp36-cp36m-win_amd64.whl
+numpy-1.13.0+mkl-cp36-cp36m-win_amd64.whl
+opencv_python-3.2.0+contrib-cp36-cp36m-win_amd64.whl
+PyQt4-4.11.4-cp36-cp36m-win_amd64.whl
+*********************
+java JDK
+*********************
+C:\Program Files\Java
+*********************
+mysql
+
+5，趣味小工具
+Tickeys
+OneQuick
+
+6，装机必备
+EasyBCD
+ultraiso
+kmspico
+
+经典弃用：
+wampserver
+vscode
+virtualbox
+github
+genymotion
+flux
+金山 共享热点 桌面管理
+iar
+android studio 
+ccs
+beyond compare
+source insight
